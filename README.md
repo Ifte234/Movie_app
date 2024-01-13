@@ -2,7 +2,10 @@
 # <link>MovieApp</link>
 
 <link>MovieApp</link> is a mobile application developed using <link>Flutter</link>, allowing users to explore a wide range of <link>movies</link>, view details, and search for their favorite <link>films</link>.
-https://github.com/Ifte234/Movie_app/blob/3cb4762fba0142131690297b0fb6dca4e84c6ef3/asset/Movie_App.mp4
+
+https://github.com/Ifte234/Movie_app/assets/91113390/3ddf96a2-58f4-4b4d-89c8-3987d171b64d
+
+
 ## Features
 
 - Browse a vast collection of <link>movies</link>
@@ -17,4 +20,4 @@ https://github.com/Ifte234/Movie_app/blob/3cb4762fba0142131690297b0fb6dca4e84c6e
 
 ## Contact
 
-For inquiries or further information, please contact iftekharahmed728372@gmail.com .
+For inquiries or further information, please contact iftekharahmed728372@gmail.com or Whatsapp at +92 3468440818
