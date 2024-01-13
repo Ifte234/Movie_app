@@ -1,16 +1,20 @@
-# movie_app
 
-A new Flutter project.
+# <link>MovieApp</link>
 
-## Getting Started
+<link>MovieApp</link> is a mobile application developed using <link>Flutter</link>, allowing users to explore a wide range of <link>movies</link>, view details, and search for their favorite <link>films</link>.
+https://github.com/Ifte234/Movie_app/blob/3cb4762fba0142131690297b0fb6dca4e84c6ef3/asset/Movie_App.mp4
+## Features
 
-This project is a starting point for a Flutter application.
+- Browse a vast collection of <link>movies</link>
+- View detailed information about each <link>movie</link>
+- Search for <link>movies</link> by title, genre, or actor
+- Save favorite <link>movies</link> for quick access
+- User-friendly interface for seamless navigation
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contact
+
+For inquiries or further information, please contact iftekharahmed728372@gmail.com .
